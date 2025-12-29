@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bb3bd9d-e9a0-474d-9baf-a8255793d0bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jobmarket.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/management/commands/aggregate_weekly_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/management/commands/normalize_jobs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/services/aggregation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/services/normalization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ingestion/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ingestion/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ingestion/management/commands/fetch_job_postings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ingestion/management/commands/fetch_search_trends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ingestion/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ingestion/services/adzuna_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ingestion/services/google_trends_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presentation/templates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/presentation/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

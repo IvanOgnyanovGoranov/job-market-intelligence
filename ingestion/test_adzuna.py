@@ -15,6 +15,6 @@ data = response.json()
 
 
 for job in data['results']:
-    if job['title'] == 'Data Engineer':
+    if job['title'] == 'DATA_ENGINEER':
         print(job)
 

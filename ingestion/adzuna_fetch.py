@@ -10,7 +10,9 @@ PARAMS = {
     "results_per_page": 100,
 }
 
-for page in range(1, 100):
+MAX_PAGES = 10
+
+for page in range(1, MAX_PAGES + 1):
     url = f"https://api.adzuna.com/v1/api/jobs/gb/search/{page}"
     response = requests.get(url, params=PARAMS)
     data = response.json()
@@ -19,7 +21,8 @@ for page in range(1, 100):
         title = job.get("title", "")
         role = normalize_role(title)
 
-        if role:
+        if not role:
+            print(job)
             print({
                 "raw_title": title,
                 "normalized_role": role

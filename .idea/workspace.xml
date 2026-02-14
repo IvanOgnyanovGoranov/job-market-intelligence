@@ -6,10 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0bb3bd9d-e9a0-474d-9baf-a8255793d0bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytics/services/normalization.py" beforeDir="false" afterPath="$PROJECT_DIR$/analytics/services/normalization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ingestion/adzuna_fetch.py" beforeDir="false" afterPath="$PROJECT_DIR$/ingestion/adzuna_fetch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ingestion/role_normalizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingestion/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ingestion/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ingestion/test_adzuna.py" beforeDir="false" afterPath="$PROJECT_DIR$/ingestion/test_adzuna.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobmarket/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobmarket/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobmarket/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobmarket/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
